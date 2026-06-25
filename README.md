@@ -6,7 +6,7 @@ This project analyzes the qualifying performance of Lewis Hamilton and Heikki Ko
 
 ## Visualization
 
-![Qualifying Battle](pj%203.png)
+![Qualifying Battle](pj3.png)
 
 ## Drivers Analyzed
 
